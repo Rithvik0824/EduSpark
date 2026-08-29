@@ -1,0 +1,6 @@
+{
+  "name": "EduSpark AI",
+  "description": "An intelligent education assistant for Indian students featuring Notes Summarizer, Quiz Generator, and Assignment Evaluator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
